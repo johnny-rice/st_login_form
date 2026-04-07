@@ -45,7 +45,7 @@ setuptools.setup(
     keywords=["streamlit", "login", "authentication", "supabase"],
     python_requires=">=3.10",
     install_requires=[
-        "streamlit>=1.2",
+        "streamlit>=1.54.0",
         "jinja2>=3.1.6",
         "st_supabase_connection>=2.1.1",
         "argon2-cffi>=23.1.0",
